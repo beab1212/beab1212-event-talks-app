@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what we can expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "categories": ["Web Development", "Scalability", "Architecture"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alan Grant"],
+    "categories": ["Cybersecurity", "Quantum Computing", "Cryptography"],
+    "duration": 60,
+    "description": "An overview of the threats posed by quantum computing and how we can prepare for them."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Emily White"],
+    "categories": ["Serverless", "Cloud Computing", "Architecture"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless computing and how it is changing the way we build applications."
+  },
+  {
+    "title": "Data Science for Social Good",
+    "speakers": ["Dr. Maria Rodriguez"],
+    "categories": ["Data Science", "Social Impact", "Ethics"],
+    "duration": 60,
+    "description": "Explore how data science is being used to address some of the world's most pressing social challenges."
+  },
+  {
+    "title": "Introduction to Blockchain and Cryptocurrencies",
+    "speakers": ["Michael Chen", "Sarah Lee"],
+    "categories": ["Blockchain", "Cryptocurrency", "Finance"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to the world of blockchain and cryptocurrencies."
+  }
+]
